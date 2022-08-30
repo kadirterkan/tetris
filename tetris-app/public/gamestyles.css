@@ -1,0 +1,15 @@
+.box {
+    margin: 2px;
+    width: 32px;
+    height: 32px;
+    background-color: black;
+}
+
+.grid-bg {
+    position: relative;
+    width: 351px;
+    height: 701px;
+    background-size: 35px 35px;
+    background-image: linear-gradient(to right, grey 1px, transparent 1px),
+    linear-gradient(to bottom, grey 1px, transparent 1px);
+}
